@@ -6,4 +6,6 @@ Algoritmo vectores
 		Escribir vector[i] Sin Saltar
 	Fin Para
 	
+	
+	Escribir "PRACTICA GIT!"
 FinAlgoritmo
